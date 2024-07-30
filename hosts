@@ -1,6 +1,4 @@
 [masters]
-master.example.com
+10.0.1.60
 
-[workers]
-nodeone.example.com
-nodetwo.example.com
+
